@@ -51,20 +51,3 @@ Nasci em 2003 e atualmente estou focada em me aprimorar na área de <strong>Dese
   <a href="https://www.linkedin.com/in/yasm1mguedes//" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
-
-<div align="center">
-  <a href="https://github.com/Yasm1mGuedes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasm1mGuedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasm1mGuedes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Taisa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Taisa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Taisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Taisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Taisa-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Taisa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Taisa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
-
-  
-</div>
